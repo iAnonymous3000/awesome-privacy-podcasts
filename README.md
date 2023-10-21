@@ -11,7 +11,7 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
 - **About**: This podcast, hosted by Michael Bazzell, provides practical security and open-source intelligence advice. It's known for its straightforward privacy solutions and compelling real-world examples relevant to both novices and professionals.
 - **Highlight**: The show is particularly recognized for its deep dives into actionable privacy practices and situational examples.
 
-## 2. [IAPP's The Privacy Advisor Podcast](https://iapp.org/news/a/category/podcast/)
+## 2. [IAPP's The Privacy Advisor Podcast](https://iapp.org/news/privacy-advisor-podcast/)
 - **About**: The official podcast of the International Association of Privacy Professionals offers a comprehensive overview of privacy-related news, regulations, and practices worldwide.
 - **Highlight**: It stands out for its detailed analysis of international privacy laws and exclusive interviews with key figures in the field of privacy.
 
