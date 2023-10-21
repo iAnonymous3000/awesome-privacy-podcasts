@@ -23,7 +23,7 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
 - **About**: Surveillance Report gives an in-depth look at the current state of surveillance, discussing its societal and individual impacts and the overarching implications for personal freedom.
 - **Highlight**: The podcast is lauded for its critical perspectives on contemporary surveillance practices and their consequences on personal and societal dimensions.
 
-## 5. [Techlore Talks](https://techlore.tech/talks.html)
+## 5. [Techlore Talks](https://www.imdb.com/title/tt27252550/)
 - **About**: Techlore Talks, part of the broader Techlore community, explores various privacy-focused tools, technologies, and practices. It demystifies complex concepts and advocates for a privacy-respecting lifestyle.
 - **Highlight**: The podcast is noteworthy for its educational content that empowers listeners to take control of their digital privacy through informed decisions.
 
