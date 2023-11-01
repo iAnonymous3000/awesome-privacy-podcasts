@@ -63,7 +63,7 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
   - [Spotify](https://open.spotify.com/show/1xkE4sfyA3RqM1q3H3cvJ5)
   - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNTQ2NzQ3LnJzcw==)
 
-## 7. [NBTV: Your Money, Your Data, Your Life](https://nonbeige.com/nbtv/)  <!-- Adjust with the actual link -->
+## 7. [NBTV: Your Money, Your Data, Your Life](https://www.nbtv.media/episodes)
 - **About**: NBTV discusses the intersection of personal data with finance and lifestyle, exploring how privacy breaches can have far-reaching effects on various aspects of life.
 - **Highlight**: The podcast takes a unique approach by highlighting the link between personal data security and financial well-being, discussing topics from online shopping to digital banking.
 - **Listen on**:
