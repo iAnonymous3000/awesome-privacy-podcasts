@@ -12,6 +12,7 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
 5. [Techlore Talks](#5-techlore-talks)
 6. [The Watchman Privacy Podcast](#6-the-watchman-privacy-podcast)
 7. [NBTV: Your Money, Your Data, Your Life](#7-nbtv-your-money-your-data-your-life)
+8. [Firewalls Don't Stop Dragons](#8-firewalls-dont-stop-dragons)
 
 ---
 
@@ -70,6 +71,14 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
   - [Apple Podcasts](https://podcasts.apple.com/us/podcast/nbtv-your-money-your-data-your-life/id1332680060)
   - [Spotify](https://open.spotify.com/show/7dYe2crjnd7w1w6jQ6Yq40)
   - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9OYW9taUJyb2Nrd2VsbEJpdGNvaW5CbG9ja2NoYWluQW5kVGVjaA)
+
+## 8. [Firewalls Don't Stop Dragons](https://firewallsdontstopdragons.com/)
+- **About**: Hosted by Carey Parker, "Firewalls Don't Stop Dragons" offers a user-friendly guide to privacy and security. The podcast breaks down complex topics into digestible segments, making it accessible for those new to the subject.
+- **Highlight**: Renowned for its actionable advice, the podcast transforms intricate privacy and security concepts into practical, easy-to-understand information. It's a go-to source for beginners looking to enhance their digital security.
+- **Listen on**:
+  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/firewalls-dont-stop-dragons/id1154603320)
+  - [Spotify](https://open.spotify.com/show/4Q6gKzF7HYo1U0TeUeW8jP)
+  - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZmlyZXdhbGxz)
 
 ---
 
