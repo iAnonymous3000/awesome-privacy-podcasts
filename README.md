@@ -76,9 +76,9 @@ Understanding and maintaining digital privacy is more crucial than ever in an er
 - **About**: Hosted by Carey Parker, "Firewalls Don't Stop Dragons" offers a user-friendly guide to privacy and security. The podcast breaks down complex topics into digestible segments, making it accessible for those new to the subject.
 - **Highlight**: Renowned for its actionable advice, the podcast transforms intricate privacy and security concepts into practical, easy-to-understand information. It's a go-to source for beginners looking to enhance their digital security.
 - **Listen on**:
-  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/firewalls-dont-stop-dragons/id1154603320)
-  - [Spotify](https://open.spotify.com/show/4Q6gKzF7HYo1U0TeUeW8jP)
-  - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZmlyZXdhbGxz)
+  - [Apple Podcasts](https://podcasts.apple.com/us/podcast/firewalls-dont-stop-dragons-podcast/id1213366517)
+  - [Spotify](https://open.spotify.com/show/5TuUY3DrWwF8Fn7OsfyW75)
+  - [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3BvZGNhc3QuZmlyZXdhbGxzZG9udHN0b3BkcmFnb25zLmNvbS9mZWVkL3BvZGNhc3Qv)
 
 ---
 
