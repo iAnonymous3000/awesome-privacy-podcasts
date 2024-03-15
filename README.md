@@ -99,6 +99,15 @@ This resource is designed for anyone interested in learning more about digital p
   - [Apple Podcasts](https://podcasts.apple.com/gb/podcast/privacy-international/id1396452404)
   - [Spotify](https://open.spotify.com/show/7wiOiGMX8N78ZxVOTf9qFk)
   - [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MjI2MDQ5MjIwL3NvdW5kcy5yc3M)
+ 
+## 10. **[Citizen Web3](https://www.citizenweb3.com/search?utf8=%E2%9C%93&term=privacy)**
+- **Hosted By**: Citizen Web3
+- **About**: A podcast focused on interviewing those that directly contribute to the development of web3. A vast selection of interviews with project founders, protocol developers, market researchers and industry advocates, discussing a range of topics, including global privacy rights, digital privacy and tyranny and the future of technology for privacy. 
+- **Highlight**: The podcast explores the stories of the people that build alternative technological solutions from various angles and perspectives.  
+- **Listen on**:
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/citizen-web3/id1510241147)
+  - [Spotify](https://open.spotify.com/show/4pwsjBsgY1C5XCyRoslbSn)
+  - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZTJkNjcyMC9wb2RjYXN0L3Jzcw==)
 
 ### Contributions & Feedback
 What other great privacy podcasts should be on this list? Do you have feedback on any of the shows already included? Please feel free to open an issue or submit a pull request! Specifically, we would love to hear:
